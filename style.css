@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .choices {
+    margin: 1rem 0;
+  }
+  
+  .choice {
+    font-size: 1rem;
+    margin: 0.5rem;
+    padding: 0.8rem 1.5rem;
+    cursor: pointer;
+  }
+  
+  #result {
+    margin: 1rem 0;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  #reset {
+    padding: 0.5rem 1rem;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
