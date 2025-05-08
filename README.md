@@ -6,6 +6,10 @@ A fun and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScr
 
 ![Gameplay Screenshot](screenshot.png)
 
+## 🚀 Live Demo
+Check out the game live at:  
+[Live Demo - Rock Paper Scissors Game](https://degala-hari-krishna.github.io/rock-paper-scissors-game/)
+
 ## 🚀 Features
 - Clean UI with emojis
 - Live score tracking
